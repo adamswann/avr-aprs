@@ -27,7 +27,7 @@ Add more features!
 
 Task 1 is almost complete:
 
-INSERT IMAGE HERE
+![Breadboard Screenshot](breadboard.jpg "Breadboard Screenshot")
 
 The ribbon cable is strictly for power and programming 
 the '4433.  The black and blue wires are TX audio and 
